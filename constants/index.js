@@ -134,7 +134,7 @@ const socials = [
  },
 ];
 
-const sliderLists = [
+const allCocktails = [
  {
 	id: 1,
 	name: "Classic Mojito",
@@ -146,7 +146,7 @@ const sliderLists = [
  {
 	id: 2,
 	name: "Raspberry Mojito",
-	image: "/images/drink2.png",
+	image: "/images/trevski.PNG",
 	title: "A Zesty Classic That Never Fails",
 	description:
 	 "The Margarita is a classic that balances tangy lime, smooth tequila, and a touch of sweetness. Shaken, frozen, or on the rocks—it’s always crisp & refreshing.",
@@ -179,5 +179,5 @@ export {
  openingHours,
  storeInfo,
  socials,
- sliderLists,
+ allCocktails,
 };
