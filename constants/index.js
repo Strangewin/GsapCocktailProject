@@ -146,7 +146,7 @@ const allCocktails = [
  {
 	id: 2,
 	name: "Raspberry Mojito",
-	image: "/images/trevski.PNG",
+	image: "/images/drink2.png",
 	title: "A Zesty Classic That Never Fails",
 	description:
 	 "The Margarita is a classic that balances tangy lime, smooth tequila, and a touch of sweetness. Shaken, frozen, or on the rocks—it’s always crisp & refreshing.",
